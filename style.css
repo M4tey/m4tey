@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.top-container {
+    background-color: #f9f7f7;
+    position: relative;
+    padding-top: 100px;
+}
+
+.title {
+    font-size: 5em;
+    margin: 0 auto 0 auto;
+    font-family: 'Playfair Display', serif;
+    color: #66bfbf;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.top-container p {
+    font-family: 'Cinzel', serif;
+}
+
+.middle-container {
+    padding: 20px;
+}
+
+.web {
+    font-weight: bold;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+
+.skill-row p {
+    text-align: left;
+    line-height: 2;
+    margin: 20px;
+}
+
+.first {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+
+.second {
+    width: 25%;
+    float: right;
+    position: relative;
+    bottom: 40px;
+}
+
+.space {
+    margin-top: 10em;
+}
+
+.contact-button {
+    box-shadow: 0px 0px 0px 0px #000000;
+    background-color: #3f71af;
+    border-radius: 27px;
+    border: 1px solid white;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 17px 31px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #000000;
+}
+
+.contact-button:hover {
+    background-color: #112e4e;
+}
+
+.contact-button:active {
+    position: relative;
+    top: 1px;
+}
+
+.title-contact {
+    color: #3f71af;
+}
+
+.subtitle-contact {
+    color: #112f4e;
+}
+
+.bottom-container {
+    background-color: #112e4e;
+    padding: 30px 0 20px 0;
+}
+
+.contact-me {
+    margin: 5em;
+}
+
+.bottom-container a {
+    text-decoration: none;
+    color: #f9f7f7;
+    display: inline-block;
+    padding: 0 30px 0 30px;
+}
+
+.bottom-container a:hover {
+    color: #66bfbf;
+}
+.copyright {
+    color: #dbe2ef;
+    position: relative;
+    top: 25px;
+}
+h2 {
+    color: #3f71af;
+}
+h3 {
+    color: #3f71af;
+}
